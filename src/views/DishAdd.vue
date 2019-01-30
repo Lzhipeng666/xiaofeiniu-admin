@@ -1,5 +1,5 @@
 <template>
-  <div class="DishAdd">
-    <h1>This is DishAdd page</h1>
+  <div class="">
+    <h1>DishAdd</h1>
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="CategoryAdd">
-    <h1>This is CategoryAdd page</h1>
+  <div class="">
+    <h1>CategoryAdd</h1>
   </div>
 </template>

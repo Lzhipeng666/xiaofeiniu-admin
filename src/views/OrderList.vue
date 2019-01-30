@@ -1,5 +1,5 @@
 <template>
-  <div class="OrderList">
-    <h1>This is OrderList page</h1>
+  <div class="">
+    <h1>OrderList</h1>
   </div>
 </template>

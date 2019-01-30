@@ -1,5 +1,5 @@
 <template>
-  <div class="DishDelete">
-    <h1>This is DishDelete page</h1>
+  <div class="">
+    <h1>DishDelete</h1>
   </div>
 </template>

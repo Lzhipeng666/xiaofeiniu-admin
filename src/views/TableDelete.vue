@@ -1,5 +1,5 @@
 <template>
-  <div class="TableDelete">
-    <h1>This is TableDelete page</h1>
+  <div class="">
+    <h1>TableDelete</h1>
   </div>
 </template>
