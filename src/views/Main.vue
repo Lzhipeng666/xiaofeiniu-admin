@@ -22,7 +22,7 @@
             </el-menu-item-group>
           </el-submenu>
           <!--菜单项3-->
-          <el-menu-item index="category">
+          <el-menu-item index="/category/list">
             <i class="el-icon-message"></i>
             <span slot="title">菜品类别</span>
           </el-menu-item>
